@@ -23,14 +23,15 @@ Throughput: The overall capability of the database’s hardware and software to 
 Workload: The combination of transactions, queries, data warehousing analysis, and system commands being processed by the database system at any given time
 
 Terms and definitions from previous modules
-A
+
+## A
 Application programming interface (API): A set of functions and procedures that integrate computer programs, forming a connection that enables them to communicate 
 
 Applications software developer: A person who designs computer or mobile applications, generally for consumers
 
 Attribute: In a dimensional model, a characteristic or quality used to describe a dimension
 
-B
+## B
 Business intelligence (BI): Automating processes and information channels in order to transform relevant data into actionable insights that are easily available to decision-makers
 
 Business intelligence governance: A process for defining and implementing business intelligence systems and frameworks within an organization
@@ -41,14 +42,14 @@ Business intelligence stages: The sequence of stages that determine both BI busi
 
 Business intelligence strategy: The management of the people, processes, and tools used in the business intelligence process
 
-C
+## C
 Columnar database: A database organized by columns instead of rows
 
 Combined systems: Database systems that store and analyze data in the same place
 
 Compiled programming language: A programming language that compiles coded instructions that are executed directly by the target machine
 
-D
+## D
 Data analysts: People who collect, transform, and organize data
 
 Data availability: The degree or extent to which timely and relevant information is readily accessible and able to be put to use
@@ -89,12 +90,12 @@ Dimensional model: A type of relational model that has been optimized to quickly
 
 Distributed database: A collection of data systems distributed across multiple physical locations
 
-E
+## E
 ETL (extract, transform, and load): A type of data pipeline that enables data to be gathered from source systems, converted into a useful format, and brought into a data warehouse or other unified destination system
 
 Experiential learning: Understanding through doing
 
-F
+## F
 Fact: In a dimensional model, a measurement or metric
 
 Fact table: A table that contains measurements or metrics related to a particular event
@@ -103,33 +104,33 @@ Foreign key: A field within a database table that is a primary key in another ta
 
 Functional programming language: A programming language modeled around functions
 
-G
+## G
 Google DataFlow: A serverless data-processing service that reads data from the source, transforms it, and writes it in the destination location
 
-I
+## I
 Information technology professionals: People who test, install, repair, upgrade, and maintain hardware and software solutions
 
 Interpreted programming language: A programming language that uses an interpreter, typically another program, to read and execute coded instructions
 
 Iteration: Repeating a procedure over and over again in order to keep getting closer to the desired result
 
-K
+## K
 Key performance indicator (KPI): A quantifiable value, closely linked to business strategy, which is used to track progress toward a goal
 
-L
+## L
 Logical data modeling: Representing different tables in the physical data model
 
-M
+## M
 Metric: A single, quantifiable data point that is used to evaluate performance
 
-O
+## O
 Object-oriented programming language: A programming language modeled around data objects
 
 OLAP (Online Analytical Processing) system: A tool that has been optimized for analysis in addition to processing and can analyze data from multiple databases
 
 OLTP (Online Transaction Processing) database: A type of database that has been optimized for data processing instead of analysis
 
-P
+## P
 Portfolio: A collection of materials that can be shared with potential employers
 
 Primary key: An identifier in a database that references a column or a group of columns in which each row uniquely identifies each record in the table (Refer to foreign key)
@@ -140,12 +141,12 @@ Project sponsor: A person who has overall accountability for a project and estab
 
 Python: A general purpose programming language
 
-R
+## R
 Response time: The time it takes for a database to complete a user request
 
 Row-based database: A database that is organized by rows
 
-S
+## S
 Separated storage and computing systems: Databases where data is stored remotely, and relevant data is stored locally for analysis
 
 Single-homed database: Database where all of the data is stored in the same physical location
@@ -160,12 +161,12 @@ Systems analyst: A person who identifies ways to design, implement, and advance 
 
 Systems software developer: A person who develops applications and programs for the backend processing systems used in organizations
 
-T
+## T
 Tactic: A method used to enable an accomplishment
 
 Target table: The predetermined location where pipeline data is sent in order to be acted on
 
 Transferable skill: A capability or proficiency that can be applied from one job to another
 
-V
+## V
 Vanity metric: Data points that are intended to impress others, but are not indicative of actual performance and, therefore, cannot reveal any meaningful business insights
