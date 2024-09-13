@@ -8,3 +8,5 @@ WHERE
 GROUP BY address
 ORDER BY number_of_trees DESC
 LIMIT 10;
+
+
